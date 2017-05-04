@@ -1,0 +1,7 @@
+dataSource:
+    pooled: true
+    jmxExport: true
+    driverClassName: com.mysql.jdbc.Driver
+    dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+    username: wc_bluesky_dev
+    password: wc_bluesky_dev
